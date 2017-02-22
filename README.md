@@ -1,8 +1,8 @@
 # node-api
-## requirement
+### requirement
 	* nodejs
 	* mongodb
-## install
+### install
 	1. git clone https://github.com/t0rton/node-api.git
 	2. cd to your clone folder
 	3. npm install
