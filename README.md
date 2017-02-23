@@ -1,5 +1,6 @@
 # node-api
 ### requirement
+	* docker
 	* nodejs
 	* mongodb
 ### install
