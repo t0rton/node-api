@@ -1,4 +1,4 @@
-db:
+mongo:
   image: mongo
   ports:
     - 27017:27017
@@ -10,5 +10,5 @@ web:
   ports:
     - 3000:3000
   links:
-    - db
+    - mongo
   command: nodemon /app/server.js
